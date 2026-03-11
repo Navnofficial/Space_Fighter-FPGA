@@ -1,0 +1,19 @@
+# Quartus II generated directories
+db/
+incremental_db/
+
+# Backup files
+*.bak
+
+# Quartus lock files
+*.qws
+
+# Compiled output (keep .sof and .pof if you want to include the bitstream)
+# output_files/
+
+# VSCode settings (optional — remove if you want to share)
+# .vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
