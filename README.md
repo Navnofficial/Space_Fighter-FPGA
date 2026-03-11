@@ -6,14 +6,16 @@
 
 ## 🎬 Demo Video
 
-![Space Fight FPGA Gameplay](assets/Space_Fighter.mp4)
+<video src="assets/Space_Fighter.mp4" controls width="100%"></video>
+
+> **Can't see the player?** [Download / view the video directly](assets/Space_Fighter.mp4)
 
 ---
 
 ## 📸 Screenshots
 
 ### 🎮 Gameplay
-![Gameplay](assets/Space_Fighter.mp4)
+<video src="assets/Space_Fighter.mp4" controls width="100%"></video>
 
 ### 🔌 Hardware Setup
 ![Hardware Setup](assets/Setup_1.png)
