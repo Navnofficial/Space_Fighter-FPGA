@@ -6,16 +6,14 @@
 
 ## 🎬 Demo Video
 
-https://github.com/Navnofficial/Space_Fighter-FPGA/assets/Space_Fighter.mp4
-
-> If the video doesn't auto-play above, [click here to download/view it](assets/Space_Fighter.mp4).
+![Space Fight FPGA Gameplay](assets/Space_Fighter.mp4)
 
 ---
 
 ## 📸 Screenshots
 
 ### 🎮 Gameplay
-![Gameplay](assets/gameplay.png)
+![Gameplay](assets/Space_Fighter.mp4)
 
 ### 🔌 Hardware Setup
 ![Hardware Setup](assets/Setup_1.png)
