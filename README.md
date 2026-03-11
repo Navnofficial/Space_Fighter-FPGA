@@ -22,6 +22,14 @@ https://github.com/user-attachments/assets/3547e2ed-9ec8-4107-8ad0-6e2898680d86
 
 ---
 
+## Schematic
+
+<img src="assets/space_fight_sch.jpg" alt="Space Fighter Schematic" width="1280">
+
+[📄 Download Schematic PDF](sch.pdf)
+
+---
+
 ## Project Overview
 
 | Property | Value |
