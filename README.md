@@ -6,11 +6,9 @@ An 8-bit Space Invaders-style arcade game implemented entirely in Verilog, rende
 
 ## Demo Video
 
-<!-- After uploading via GitHub editor, paste the generated tag here, for example:
-<video width="720" src="https://user-images.githubusercontent.com/YOUR_ID/Space_Fighter.mp4"></video>
--->
+https://github.com/user-attachments/assets/3547e2ed-9ec8-4107-8ad0-6e2898680d86
 
-[Download / View Gameplay Video](assets/Space_Fighter.mp4)
+[Download Gameplay Video](assets/Space_Fighter.mp4)
 
 ---
 
